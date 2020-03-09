@@ -1,6 +1,6 @@
 import numpy as np
 
-def randfixedsum(n, m, s=1, a=0, b=1):
+def RandomVectorWithFixedSum(n, m, s=1, a=0, b=1):
       """
           获得m个长度为n的随机向量
           随机向量元素的值在[a, b]范围内
